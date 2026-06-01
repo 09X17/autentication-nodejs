@@ -1554,4 +1554,4 @@ Se usa `sequelize.sync({ force: true })` en desarrollo, lo que:
 
 ## Licencia
 
-Proyecto desarrollado con fines académicos — Evidencia de Aprendizaje 3, Ingeniería Web 2.
+Proyecto desarrollado con fines académicos — Evidencia de Aprendizaje 3.
