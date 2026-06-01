@@ -1,6 +1,6 @@
 # API de Autenticación y Autorización con Node.js y JWT
 
-> Evidencia de Aprendizaje 3 — Ingeniería Web 2
+> Evidencia de Aprendizaje 3 — Desarrollo de Software Seguro
 
 API RESTful para la gestión de inventarios de equipos con sistema de **autenticación mediante JWT** y **autorización basada en roles (RBAC)**. Desarrollada con Node.js, Express, Sequelize y SQLite.
 
